@@ -52,6 +52,7 @@ The training notebook is in `yolo_training.ipynb`, and includes:
 
 **Krish Shah**  
 [GitHub: KrishcShah1507](https://github.com/KrishcShah1507)
+**Lipy Kothari**
 Github: LipyKothari (https://github.com/LipyKothari)
 
 ---
