@@ -1,4 +1,4 @@
-# YOLO-Based Toor Dal Classification 🫘📸
+# YOLO-Based Toor Dal Classification 
 
 This project uses a YOLOv8 model to classify different types of Toor Dal grains using image analysis. It aims to bring transparency and trust in the grain trade by automatically identifying the grain type from images.
 
